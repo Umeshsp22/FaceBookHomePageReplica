@@ -1,0 +1,96 @@
+[Tue Jul 31 00:36:05 2018] [notice] Apache/2.2.11 (Win32) PHP/5.3.0 configured -- resuming normal operations
+[Tue Jul 31 00:36:05 2018] [notice] Server built: Dec 10 2008 00:10:06
+[Tue Jul 31 00:36:05 2018] [notice] Parent: Created child process 13020
+[Tue Jul 31 00:36:05 2018] [notice] Child 13020: Child process is running
+[Tue Jul 31 00:36:06 2018] [notice] Child 13020: Acquired the start mutex.
+[Tue Jul 31 00:36:06 2018] [notice] Child 13020: Starting 64 worker threads.
+[Tue Jul 31 00:36:06 2018] [notice] Child 13020: Starting thread to listen on port 80.
+[Tue Jul 31 00:38:35 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico, referer: http://localhost/facebook%20home%20page/home%20page.php
+[Tue Jul 31 00:51:49 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/lllg.png, referer: http://localhost/facebook%20home%20page/home%20page.php
+[Tue Jul 31 00:51:50 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/lllg.png, referer: http://localhost/facebook%20home%20page/home%20page.php
+[Tue Jul 31 00:53:13 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/lllg.png, referer: http://localhost/facebook%20home%20page/home%20page.php
+[Tue Jul 31 01:06:16 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/sr.png, referer: http://localhost/facebook%20home%20page/home.css
+[Tue Jul 31 01:11:31 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/sr.png, referer: http://localhost/facebook%20home%20page/home.css
+[Tue Jul 31 01:12:58 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/sr.png, referer: http://localhost/facebook%20home%20page/home.css
+[Tue Jul 31 01:18:57 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/sr.png, referer: http://localhost/facebook%20home%20page/home.css
+[Tue Jul 31 01:20:20 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/sr.png, referer: http://localhost/facebook%20home%20page/home.css
+[Tue Jul 31 01:20:38 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/sr.png, referer: http://localhost/facebook%20home%20page/home.css
+[Tue Jul 31 01:22:40 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/sr.png, referer: http://localhost/facebook%20home%20page/home.css
+[Tue Jul 31 01:25:03 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/sr.png, referer: http://localhost/facebook%20home%20page/home.css
+[Tue Jul 31 01:28:12 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/sr.png, referer: http://localhost/facebook%20home%20page/home.css
+[Tue Jul 31 01:28:48 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/sr.png, referer: http://localhost/facebook%20home%20page/home.css
+[Tue Jul 31 01:32:47 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/sr.png, referer: http://localhost/facebook%20home%20page/home.css
+[Tue Jul 31 01:35:17 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/sr.png, referer: http://localhost/facebook%20home%20page/home.css
+[Tue Jul 31 01:36:55 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/sr.png, referer: http://localhost/facebook%20home%20page/home.css
+[Tue Jul 31 01:37:15 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/sr.png, referer: http://localhost/facebook%20home%20page/home.css
+[Tue Jul 31 01:37:37 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/sr.png, referer: http://localhost/facebook%20home%20page/home.css
+[Tue Jul 31 01:40:37 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/sr.png, referer: http://localhost/facebook%20home%20page/home.css
+[Tue Jul 31 01:41:16 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/sr.png, referer: http://localhost/facebook%20home%20page/home.css
+[Tue Jul 31 01:44:45 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/sr.png, referer: http://localhost/facebook%20home%20page/home.css
+[Tue Jul 31 01:45:26 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/sr.png, referer: http://localhost/facebook%20home%20page/home.css
+[Tue Jul 31 01:47:25 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/sr.png, referer: http://localhost/facebook%20home%20page/home.css
+[Tue Jul 31 01:49:10 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/sr.png, referer: http://localhost/facebook%20home%20page/home.css
+[Tue Jul 31 01:49:19 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/sr.png, referer: http://localhost/facebook%20home%20page/home.css
+[Tue Jul 31 01:49:47 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/sr.png, referer: http://localhost/facebook%20home%20page/home.css
+[Tue Jul 31 01:52:28 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/sr.png, referer: http://localhost/facebook%20home%20page/home.css
+[Tue Jul 31 01:53:16 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/sr.png, referer: http://localhost/facebook%20home%20page/home.css
+[Tue Jul 31 01:53:55 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/sr.png, referer: http://localhost/facebook%20home%20page/home.css
+[Tue Jul 31 01:54:23 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/sr.png, referer: http://localhost/facebook%20home%20page/home.css
+[Tue Jul 31 01:56:29 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/sr.png, referer: http://localhost/facebook%20home%20page/home.css
+[Tue Jul 31 01:56:43 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/sr.png, referer: http://localhost/facebook%20home%20page/home.css
+[Tue Jul 31 01:57:47 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/sr.png, referer: http://localhost/facebook%20home%20page/home.css
+[Tue Jul 31 01:58:13 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/sr.png, referer: http://localhost/facebook%20home%20page/home.css
+[Tue Jul 31 01:58:27 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/sr.png, referer: http://localhost/facebook%20home%20page/home.css
+[Tue Jul 31 01:58:57 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/sr.png, referer: http://localhost/facebook%20home%20page/home.css
+[Tue Jul 31 02:00:14 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/sr.png, referer: http://localhost/facebook%20home%20page/home.css
+[Tue Jul 31 02:01:24 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/sr.png, referer: http://localhost/facebook%20home%20page/home.css
+[Tue Jul 31 02:02:27 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/sr.png, referer: http://localhost/facebook%20home%20page/home.css
+[Tue Jul 31 02:07:00 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/sr.png, referer: http://localhost/facebook%20home%20page/home.css
+[Tue Jul 31 02:07:21 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/sr.png, referer: http://localhost/facebook%20home%20page/home.css
+[Tue Jul 31 02:07:48 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/sr.png, referer: http://localhost/facebook%20home%20page/home.css
+[Tue Jul 31 02:16:21 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/sr.png, referer: http://localhost/facebook%20home%20page/home.css
+[Tue Jul 31 02:22:04 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/sr.png, referer: http://localhost/facebook%20home%20page/home.css
+[Tue Jul 31 02:30:51 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/sr.png, referer: http://localhost/facebook%20home%20page/home.css
+[Tue Jul 31 02:40:56 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/sr.png, referer: http://localhost/facebook%20home%20page/home.css
+[Tue Jul 31 11:54:53 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/sr.png, referer: http://localhost/facebook%20home%20page/ust.css
+[Tue Jul 31 12:05:21 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/sr.png, referer: http://localhost/facebook%20home%20page/ust.css
+[Tue Jul 31 12:07:39 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/sr.png, referer: http://localhost/facebook%20home%20page/ust.css
+[Tue Jul 31 12:08:50 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/sr.png, referer: http://localhost/facebook%20home%20page/ust.css
+[Tue Jul 31 12:10:11 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/sr.png, referer: http://localhost/facebook%20home%20page/ust.css
+[Tue Jul 31 12:12:38 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/sr.png, referer: http://localhost/facebook%20home%20page/ust.css
+[Tue Jul 31 12:14:25 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/sr.png, referer: http://localhost/facebook%20home%20page/style.css
+[Tue Jul 31 12:17:58 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page
+[Tue Jul 31 12:18:32 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page
+[Tue Jul 31 12:18:33 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page
+[Tue Jul 31 12:18:34 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page
+[Tue Jul 31 12:18:34 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page
+[Tue Jul 31 12:18:54 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/frn.png, referer: http://localhost/facebook%20home%20page/facebookHomePage.php
+[Tue Jul 31 12:18:54 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/chat.png, referer: http://localhost/facebook%20home%20page/facebookHomePage.php
+[Tue Jul 31 12:18:54 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/set.png, referer: http://localhost/facebook%20home%20page/facebookHomePage.php
+[Tue Jul 31 12:18:54 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/sr.png, referer: http://localhost/facebook%20home%20page/style.css
+[Tue Jul 31 12:19:56 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/frn.png, referer: http://localhost/facebook%20home%20page/facebookHomePage.php
+[Tue Jul 31 12:19:56 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/chat.png, referer: http://localhost/facebook%20home%20page/facebookHomePage.php
+[Tue Jul 31 12:19:56 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/set.png, referer: http://localhost/facebook%20home%20page/facebookHomePage.php
+[Tue Jul 31 12:19:56 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/sr.png, referer: http://localhost/facebook%20home%20page/style.css
+[Tue Jul 31 12:21:23 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/frn.png, referer: http://localhost/facebook%20home%20page/facebookHomePage.php
+[Tue Jul 31 12:21:23 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/chat.png, referer: http://localhost/facebook%20home%20page/facebookHomePage.php
+[Tue Jul 31 12:21:23 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/sr.png, referer: http://localhost/facebook%20home%20page/style.css
+[Tue Jul 31 12:22:21 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/frn.png, referer: http://localhost/facebook%20home%20page/facebookHomePage.php
+[Tue Jul 31 12:22:21 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/sr.png, referer: http://localhost/facebook%20home%20page/style.css
+[Tue Jul 31 12:23:19 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/sr.png, referer: http://localhost/facebook%20home%20page/style.css
+[Tue Jul 31 12:40:21 2018] [error] [client 127.0.0.1] script 'C:/wamp/www/facebook home page/facaebookHomePage.php' not found or unable to stat
+[Tue Jul 31 12:40:21 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico, referer: http://localhost/facebook%20home%20page/facaebookHomePage.php
+[Tue Jul 31 12:40:34 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/sr.png, referer: http://localhost/facebook%20home%20page/style.css
+[Tue Jul 31 12:41:07 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/sr.png, referer: http://localhost/facebook%20home%20page/style.css
+[Tue Jul 31 12:47:47 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/sr.png, referer: http://localhost/facebook%20home%20page/style.css
+[Tue Jul 31 12:50:03 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/sr.png, referer: http://localhost/facebook%20home%20page/style.css
+[Tue Jul 31 12:54:05 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/sr.png, referer: http://localhost/facebook%20home%20page/style.css
+[Tue Jul 31 12:56:16 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/sr.png, referer: http://localhost/facebook%20home%20page/style.css
+[Tue Jul 31 12:57:41 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/sr.png, referer: http://localhost/facebook%20home%20page/style.css
+[Tue Jul 31 13:11:57 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/sr.png, referer: http://localhost/facebook%20home%20page/style.css
+[Tue Jul 31 13:11:57 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico, referer: http://localhost/facebook%20home%20page/facebookHomePage.php
+[Tue Jul 31 13:12:34 2018] [error] [client 127.0.0.1] script 'C:/wamp/www/facebook home page/profile.php' not found or unable to stat, referer: http://localhost/facebook%20home%20page/facebookHomePage.php
+[Tue Jul 31 13:12:40 2018] [error] [client 127.0.0.1] script 'C:/wamp/www/facebook home page/profile.php' not found or unable to stat, referer: http://localhost/facebook%20home%20page/facebookHomePage.php
+[Tue Jul 31 13:12:44 2018] [error] [client 127.0.0.1] script 'C:/wamp/www/facebook home page/profile.php' not found or unable to stat, referer: http://localhost/facebook%20home%20page/facebookHomePage.php
+[Tue Jul 31 13:20:26 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/facebook home page/sr.png, referer: http://localhost/facebook%20home%20page/style.css
+[Tue Jul 31 13:20:26 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico, referer: http://localhost/facebook%20home%20page/facebookHomePage.php
